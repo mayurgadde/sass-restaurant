@@ -1,0 +1,15 @@
+{
+    "name": "sass-course-1",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "watch": "node-sass -o css scss -w"
+    },
+    "dependencies": {
+      "node-sass": "^4.12.0"
+    },
+    "devDependencies": {
+      "@fortawesome/fontawesome-free": "^5.8.2"
+    }
+  }
